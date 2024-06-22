@@ -1,6 +1,6 @@
 # Déclarer ses impôts avec Degiro
 
-> Les informations ci-dessous ne sont pas écrites par un expert. Les contributions sont les bienvenues.
+> Les informations ci-dessous ne sont pas rédigées par un expert. Les contributions sont les bienvenues.
 
 Étapes suivies pour remplir la déclaration aux impôts d'un compte ouvert à l’étranger (Degiro).
 
